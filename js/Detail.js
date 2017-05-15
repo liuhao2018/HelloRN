@@ -13,7 +13,6 @@ export default class Detail extends Component{
           super(props);
           // 初始状态
           this.state = {
-              isShow:1
           };
 
       }
